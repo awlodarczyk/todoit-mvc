@@ -1,0 +1,40 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.37.0)
+  - lottie-ios (2.5.2)
+  - Material (2.16.4):
+    - Material/Core (= 2.16.4)
+  - Material/Core (2.16.4):
+    - Motion (~> 1.4.3)
+  - Motion (1.4.3):
+    - Motion/Core (= 1.4.3)
+  - Motion/Core (1.4.3)
+  - SCLAlertView (0.8)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - lottie-ios
+  - Material (~> 2.0)
+  - SCLAlertView
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Google-Mobile-Ads-SDK
+    - lottie-ios
+    - Material
+    - Motion
+    - SCLAlertView
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: d028682d7450749a1955679da050eaf70d997b3e
+  lottie-ios: 3fef45d3fabe63e3c7c2eb603dd64ddfffc73062
+  Material: 4ed78690b09ffd148b5ffab6b4367fb1d8da1cd3
+  Motion: 153ba49692997888556c7a95207278a8b1f8be95
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 02f8eff18ac26bd1268f1bfd1b1b7e26c63d7dc9
+
+COCOAPODS: 1.5.2
